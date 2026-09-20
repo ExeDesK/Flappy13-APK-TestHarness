@@ -30,3 +30,5 @@ to verify their integrity and validate them against the scenario definitions.
 ## Scope of a 1:1 claim
 
 A zero-difference result is strong evidence that the tested deterministic state path matches the reference APK. It does not by itself prove every visual, audio, timing, lifecycle or platform behavior of the complete application. Those require separate tests.
+
+Canonical golden CSV files use LF line endings. This is part of the byte-level integrity contract.

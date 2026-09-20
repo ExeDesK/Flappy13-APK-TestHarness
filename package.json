@@ -1,6 +1,6 @@
 {
   "name": "flappy13-apk-test-harness",
-  "version": "3.2.1",
+  "version": "3.2.2",
   "private": true,
   "type": "module",
   "description": "Deterministic cross-test harness for comparing a user-supplied Flappy Bird 1.3 APK with a PWA reimplementation.",

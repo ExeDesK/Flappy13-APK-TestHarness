@@ -232,3 +232,5 @@ Sans extras `flappy_test`, l'instrumentation reste inactive.
 ## Note projet
 
 Outil non officiel destiné au reverse-engineering, au test de compatibilité et à la validation déterministe. Le dépôt ne distribue pas l'application originale.
+
+> Les golden traces sont versionnées avec des fins de ligne **LF** afin que leurs SHA-256 soient identiques sur Windows, Linux et GitHub Actions.

@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "harness_version": "3.2",
+  "harness_version": "3.2.2",
   "description": "Canonical deterministic traces captured from the instrumented reference APK on Android 4.4.2 / API 19 / x86.",
   "reference_apk_sha256": "A3E6958CE2100966F4E207778E4CDBE72788214148C7F4BFD042BA365498DEB3",
   "reference_environment": {
@@ -12,7 +12,7 @@
     {
       "id": "01-ground",
       "file": "apk/01-ground.csv",
-      "sha256": "d5dea85a8ab6cd4eb7eb34a3216e4c7929cbbeb33e83a758586c7d45fa3b7ec6",
+      "sha256": "fc45c608f92d25dde6c94ca5c98f609db81c18d23aeda5cb0d5949b73d17255e",
       "state_rows": 54,
       "input_ticks": [
         0
@@ -25,7 +25,7 @@
     {
       "id": "02-score10",
       "file": "apk/02-score10.csv",
-      "sha256": "7e85d2d7cc414bfcba066e8503d5e13094b014829d709eefdffb99dfff21181e",
+      "sha256": "719503a6de403b9f218afcb40c600af62b22362508b060474c91ed23cbd5ca45",
       "state_rows": 954,
       "input_ticks": [
         0,
@@ -64,7 +64,7 @@
     {
       "id": "03-sky-pipe",
       "file": "apk/03-sky-pipe.csv",
-      "sha256": "9ebbd81b202a62a0808884d85ddc6a912e2ae1e042299ccbfe9162bd1690435b",
+      "sha256": "696fb2c2487928a96080da163c3707191dbba23f075d8d39bff5f5c869d64647",
       "state_rows": 225,
       "input_ticks": [
         0,
@@ -87,7 +87,7 @@
     {
       "id": "04-long20",
       "file": "apk/04-long20.csv",
-      "sha256": "bd81091fae74536fa91d7f79d5d417c0c5eafde155e78bd29f3b3017d5a007c4",
+      "sha256": "9c6a5e7f0fff96a1e2d9a8a81c9de90f1cdce7658b052640d2b644f817a7b6c2",
       "state_rows": 1734,
       "input_ticks": [
         0,

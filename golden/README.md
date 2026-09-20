@@ -5,3 +5,5 @@ These CSV files are deterministic state traces captured from the instrumented re
 They contain numeric/logical game state only. No APK, game artwork, audio, native library or other game asset is stored here.
 
 Integrity metadata is in `manifest.json`.
+
+Canonical golden CSV files use LF line endings. This is part of the byte-level integrity contract.

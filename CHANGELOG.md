@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.2.2
+
+- Canonical golden CSV files are now stored with LF line endings, matching the repository `.gitattributes` policy.
+- Golden SHA-256 values were regenerated from the canonical LF bytes.
+- Fixes CI hash failures caused by Git converting CRLF golden traces to LF during checkout.
+
 ## 3.2.1
 
 - Fixed Windows Python detection: `python3.exe` from the Microsoft Store App Execution Alias is no longer accepted unless it can actually execute Python 3.

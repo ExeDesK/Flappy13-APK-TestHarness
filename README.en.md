@@ -125,3 +125,5 @@ This checks hashes and scenario terminal metadata for all canonical APK traces.
 ## Project note
 
 Unofficial reverse-engineering, compatibility-testing and deterministic-validation utility. The original application is not distributed by this repository.
+
+> Golden traces are versioned with **LF** line endings so their SHA-256 values stay identical on Windows, Linux and GitHub Actions.
