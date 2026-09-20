@@ -1,0 +1,31 @@
+# User-supplied / generated Android artifacts
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Harness build outputs
+.cache/
+out/
+work/
+
+# Runtime traces (canonical traces live under golden/)
+traces/*
+!traces/.gitkeep
+
+# Downloaded tools / archives
+*.jar
+*.zip
+
+# Logs / temp
+*.log
+*.tmp
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+__pycache__/
+*.pyc

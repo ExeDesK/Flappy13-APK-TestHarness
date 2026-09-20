@@ -1,0 +1,11 @@
+{
+  "id": "01-ground",
+  "title": "Launch -> ground death",
+  "seed": 42,
+  "taps": [0],
+  "expected": {
+    "score": 0,
+    "endTick": 53,
+    "death": "ground"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "03-sky-pipe",
+  "title": "Launch -> repeated climb -> upper pipe death",
+  "seed": 123456789,
+  "taps": [0,18,36,54,72,90,108,126,144,162,180],
+  "expected": {
+    "score": 0,
+    "endTick": 224,
+    "death": "upper-pipe"
+  }
+}
